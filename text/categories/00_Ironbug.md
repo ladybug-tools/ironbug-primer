@@ -1,0 +1,11 @@
+#### Component list:
+* ![IMAGE](../../images/icons/IB_Duplicate.png) [IB Duplicate](../components/IB_Duplicate.md)
+* ![IMAGE](../../images/icons/IB_ImportOSM.png) [IB ImportOSM](../components/IB_ImportOSM.md)
+* ![IMAGE](../../images/icons/IB_PlenumZone.png) [IB PlenumZone](../components/IB_PlenumZone.md)
+* ![IMAGE](../../images/icons/IB_ThermalZone.png) [IB ThermalZone](../components/IB_ThermalZone.md)
+* ![IMAGE](../../images/icons/IB_ObjParams.png) [IB ObjParams](../components/IB_ObjParams.md)
+* ![IMAGE](../../images/icons/IB_OutputParams.png) [IB OutputParams](../components/IB_OutputParams.md)
+* ![IMAGE](../../images/icons/IB_LoadRefObjects(WIP).png) [IB LoadRefObjects(WIP)](../components/IB_LoadRefObjects(WIP).md)
+* ![IMAGE](../../images/icons/IB_ObjViewer.png) [IB ObjViewer](../components/IB_ObjViewer.md)
+* ![IMAGE](../../images/icons/IB_RefObject(WIP).png) [IB RefObject(WIP)](../components/IB_RefObject(WIP).md)
+* ![IMAGE](../../images/icons/IB_ZonePicker.png) [IB ZonePicker](../components/IB_ZonePicker.md)
